@@ -1,4 +1,4 @@
-Solution to Facebook PuzzleMaster's Gambling Monster [gamblor]
+Solution to Facebook PuzzleMaster's Evil Gambling Monster [gamblor]
 in Python
 
 DEMO:
