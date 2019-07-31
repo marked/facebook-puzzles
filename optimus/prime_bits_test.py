@@ -3,7 +3,7 @@
 __author__ = "marked@gmail.com (Mark Rosetta)"
 __version__ = "1.0"
 
-"""Unit test for primes.py"""
+"""Unit test for prime_bits.py"""
 
 import prime_bits
 import unittest
