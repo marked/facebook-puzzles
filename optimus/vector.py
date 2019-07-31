@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 
 __author__ = "marked@gmail.com (Mark Rosetta)"
 __version__ = "1.0"
